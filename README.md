@@ -66,6 +66,6 @@ Revise and push changes as needed.
 
 
 
-### Credits ###
+## Credits
 
 Michal Young, Ram Durairajan, Steven Walton, Joe Istas.
